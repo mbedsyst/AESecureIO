@@ -1,0 +1,3 @@
+../Src/Banner.c:3:6:DisplayBanner	8	static
+../Src/Banner.c:16:6:DisplayNote	8	static
+../Src/Banner.c:24:6:DisplayInfo	8	static

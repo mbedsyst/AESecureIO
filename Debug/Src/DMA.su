@@ -1,0 +1,4 @@
+../Src/DMA.c:3:6:DMA_Init	4	static
+../Src/DMA.c:7:6:DMA_ConfigureTransfer	4	static
+../Src/DMA.c:11:6:DMA_StartTransfer	4	static
+../Src/DMA.c:15:6:DMA1_Stream6_IRQHandler	4	static

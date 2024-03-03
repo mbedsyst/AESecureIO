@@ -1,0 +1,12 @@
+../Src/SDIO.c:21:13:SDIO_ERR	24	static
+../Src/SDIO.c:34:17:SDIO_CMD	24	static
+../Src/SDIO.c:73:17:SDIO_RSP	16	static
+../Src/SDIO.c:129:6:SDIO_Init	4	static
+../Src/SDIO.c:159:6:SDIO_Configure	16	static
+../Src/SDIO.c:212:13:SDIO_Tx_Start	24	static
+../Src/SDIO.c:289:6:SDIO_Tx_Wait	8	static
+../Src/SDIO.c:324:6:SDIO_SingleBlock_Write	24	static
+../Src/SDIO.c:347:6:SDIO_SingleBlock_Read	24	static
+../Src/SDIO.c:370:6:SDIO_MultiBlockWrite_Start	24	static
+../Src/SDIO.c:392:6:SDIO_WriteData	16	static
+../Src/SDIO.c:421:6:SDIO_MultiBlockWrite_Stop	16	static

@@ -1,0 +1,8 @@
+../Src/GPIO.c:3:6:GPIOA_ClockEnable	4	static
+../Src/GPIO.c:7:6:GPIOB_ClockEnable	4	static
+../Src/GPIO.c:11:6:GPIOC_ClockEnable	4	static
+../Src/GPIO.c:15:6:GPIOD_ClockEnable	4	static
+../Src/GPIO.c:20:6:GPIO_Initialize	16	static
+../Src/GPIO.c:32:6:GPIO_Write	24	static
+../Src/GPIO.c:48:6:GPIO_Toggle	16	static
+../Src/GPIO.c:62:20:GPIO_Read	24	static
